@@ -1,6 +1,6 @@
 # HEX/ProfiCNC Here+ RTK GPS
 
-The [Here+ RTK GPS receiver](http://www.proficnc.com/content/12-here) is a small, light and energy efficient [RTK GPS module](../gps_compass/rtk_gps.md), based on the u-blox M8P. Using RTK, PX4 can get its position with centimetre-level accuracy, which is much more accurate than can be provided by a normal GPS.
+The [Here+ RTK GPS receiver](http://www.proficnc.com/content/12-here) is a small, light and energy efficient [RTK GPS module](../gps_compass/rtk_gps.md), based on the u-blox M8P. Using RTK, PX4 can get its position with centimetre-level accuracy, which is much more accurate than can be provided by a normal GPS. Here+V2 is now available.
 
 <img src="../../assets/hardware/gps/rtk_here_plus.jpg" />
 
@@ -13,6 +13,10 @@ The [Here+ RTK GPS receiver](http://www.proficnc.com/content/12-here) is a small
 ## Configuration
 
 RTK setup and use on PX4 via *QGroundControl* is largely plug and play (see [RTK GPS](../advanced_features/rtk-gps.md) for more information).
+
+### Firmware Update
+
+It is recommanded to update the firmware to get even better performance. Update Procedure can be found [here](http://www.hex.aero/wp-content/uploads/2019/01/Herev2-User-Manual.pdf) at page5 *Firmware Update*.
 
 ## Wiring and Connections
 
