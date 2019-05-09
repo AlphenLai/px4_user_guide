@@ -16,7 +16,7 @@ RTK setup and use on PX4 via *QGroundControl* is largely plug and play (see [RTK
 
 ### Firmware Update
 
-It is recommanded to update the firmware to get even better performance. Update Procedure can be found [here](http://www.hex.aero/wp-content/uploads/2019/01/Herev2-User-Manual.pdf) at page5 *Firmware Update*.
+It is recommended to update the firmware to get even better performance. Update Procedure can be found [here](http://www.hex.aero/wp-content/uploads/2019/01/Herev2-User-Manual.pdf) at page5 *Firmware Update*.
 
 ## Wiring and Connections
 
